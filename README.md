@@ -2,7 +2,7 @@
 
 *Keep in mind that this is my first plugin, it won't be the best, it might contain glitches.*
 
-[1.8 supported only]
+<u>[1.8 supported only]</u>
 
 This plugin includes these commands: (/hello, /hi, /heal, /feed
 
