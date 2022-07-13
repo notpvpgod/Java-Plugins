@@ -1,15 +1,14 @@
-**e**
+**My First Plugin**
 
-This is a minecraft plugin for 1.8 only.
+*Keep in mind that this is my first plugin, it won't be the best, it might contain glitches.*
 
-It includes the commands:
+[1.8 supported only]
 
-/hello, /hi, /heal, /feed
+This plugin includes these commands: (/hello, /hi, /heal, /feed
 
-And it tells you a welcome message when joining the server.
+This plugin sends a welcome message for everyone joining the server.
 
-And every single movement will display a message telling you what block you are standing on.
+This plugin also sends a message to the player what block you are standing on.
 
-This is my first minecraft plugin I made.
-
-Made by pvp
+*Made my pvpgod*
+*v1.0*
